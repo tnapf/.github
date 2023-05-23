@@ -20,7 +20,7 @@ To get started with TNAPF, follow these steps:
 
 ## Community and Support
 
-Join our vibrant community on [Discord Server](https://discord.gg/TgrcSkuDtQ) to connect with other TNAPF users, seek help, share ideas, and contribute to the project.
+Join our vibrant community on [Discord](https://discord.gg/TgrcSkuDtQ) to connect with other TNAPF users, seek help, share ideas, and contribute to the project.
 
 ## Known Limitations
 
