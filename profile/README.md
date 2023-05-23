@@ -8,7 +8,7 @@ TNAPF (Totally Not Another PHP Framework) is an open-source organization dedicat
 - **Wide Usability**: Our packages are designed to work seamlessly in any PHP project, offering a universal solution for different use cases.
 - **Minimal External Dependencies**: We strive to minimize external dependencies in our packages, ensuring a lightweight and efficient development experience. However, some packages may include interfaces following PSR standards.
 - **Active Maintenance and Bug Fixes**: TNAPF is actively maintained by the core contributors, and we prioritize resolving bugs and issuing bug fixes promptly.
-- **Community-Driven Development**: We welcome contributions from the community. Developers can open pull requests to improve existing packages or suggest new packages. Join our Discord server [Discord Server](https://discord.gg/TgrcSkuDtQ) to connect with other contributors and discuss ideas.
+- **Community-Driven Development**: We welcome contributions from the community. Developers can open pull requests to improve existing packages or suggest new packages. Join our [Discord Server](https://discord.gg/TgrcSkuDtQ) to connect with other contributors and discuss ideas.
 
 ## Getting Started
 
