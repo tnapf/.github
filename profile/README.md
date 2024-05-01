@@ -33,6 +33,3 @@ TNAPF has an ambitious roadmap with plans to expand its package collection. We e
 ## License
 
 TNAPF packages are released under the [MIT License](LICENSE.md).
-
-## [JetBrains Open Source License](https://www.jetbrains.com/community/opensource/#support) 
-We extend our sincere gratitude to JetBrains for providing us with PhpStorm, a powerful IDE tailored for PHP development. Their support is invaluable as we leverage the advanced features of PhpStorm to enhance our workflow, write high-quality code, and deliver exceptional PHP projects. Thank you, JetBrains!
